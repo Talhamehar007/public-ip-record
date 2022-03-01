@@ -3,7 +3,7 @@ import os
 import requests
 from time import sleep
 
-os.chdir(f"{os.getenv('HOME')}/.scripts/Record IP/")
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 datetime_format = '%a %d-%b-%Y %l:%M:%S %p'
 
