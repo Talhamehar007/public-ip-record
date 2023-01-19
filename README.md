@@ -17,7 +17,7 @@ IP Monitor is a simple Python script that monitors the public IP address of your
 3. Open the terminal and navigate to the folder
 4. Run the script by executing:
 
-   **`python3 ip_monitor.py`**
+   **`python3 ip-logger.py`**
 
 5. You can also use the following command-line arguments to configure the script:
    -i, --interval Interval in seconds (default: 60)
