@@ -1,8 +1,0 @@
-2023-01-18 23:25:58,471 INFO Connected to database ip_logs.db
-2023-01-18 23:25:58,472 INFO Previous IP: 147.12.231.56
-2023-01-18 23:25:58,473 DEBUG Starting new HTTPS connection (1): api.ipify.org:443
-2023-01-18 23:25:59,076 DEBUG https://api.ipify.org:443 "GET / HTTP/1.1" 200 13
-Traceback (most recent call last):
-  File "/home/talha/Code/ChatGPT/ip-logger/ip-logger.py", line 59, in <module>
-    time.sleep(args.interval)
-KeyboardInterrupt
