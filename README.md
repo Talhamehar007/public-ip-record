@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-# public-ip-record
-Keep a record of your public IP address.
-
-Add this Script to start-up folder, or create a service to start on every startup
-=======
 # IP Monitor
 
 IP Monitor is a simple Python script that monitors the public IP address of your computer and writes the unique IP addresses and timestamps to an SQLite3 database. The script can also be run as a daemon, it will keep running in the background and check the IP address at a specified interval.
@@ -59,4 +53,3 @@ The script can be added to start on startup on Linux, you can use the following 
 If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
 Please note that this script is for educational purposes, and it is recommended to use a more robust and secure solution to monitor your IP address if you need it in production.
->>>>>>> 44a5d8b (The INITIAL commit with just 2 PYTHON files and README)
